@@ -1,0 +1,7 @@
+# Archivos a ignorar en el repositorio 
+Nuevo documento de texto.txt
+*.tmp
+
+
+# Directorios a ignorar en el repositorio 
+/node_modules
